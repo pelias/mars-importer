@@ -3,6 +3,8 @@
 
 # Pelias Mars data importer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pelias/mars-importer.svg)](https://greenkeeper.io/)
+
 Initial release date: April 1, 2018
 
 This importer is designed to bring data about places on Mars, yes - Mars the planet, into Pelias.
