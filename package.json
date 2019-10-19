@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "deep-diff": "^0.3.3",
-    "event-stream": "^3.3.2",
+    "stream-mock": "^2.0.3",
     "jshint": "^2.9.4",
     "proxyquire": "^1.7.10",
     "semantic-release": "^8.0.0",
